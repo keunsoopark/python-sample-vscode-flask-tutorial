@@ -1,5 +1,4 @@
 [![Build Status](https://dev.azure.com/whwr0428/whwr0428/_apis/build/status/keunsoopark.python-sample-vscode-flask-tutorial?branchName=master)](https://dev.azure.com/whwr0428/whwr0428/_build/latest?definitionId=1&branchName=master)
-[![Build Status](https://dev.azure.com/whwr0428/whwr0428/_apis/build/status/keunsoopark.python-sample-vscode-flask-tutorial?branchName=master)](https://dev.azure.com/whwr0428/whwr0428/_build/latest?definitionId=1&branchName=master)
 
 # Python/Flask tutorial sample for Visual Studio Code
 
